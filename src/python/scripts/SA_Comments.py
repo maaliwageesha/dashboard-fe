@@ -17,7 +17,7 @@ def plot_sentiment_trends_yearly(df, country):
     df_country = df[df['country'] == country]
 
     # Group data by time (yearly) and aggregate sentiment values
-    df_country_yearly = df_country.resample('YE', on='pubDate').sum()
+    df_country_yearly = df_country.resample('Y', on='pubDate').sum()
 
     # Calculate proportions of positive, neutral, and negative sentiment
     total_sentiment = df_country_yearly['positive'] + df_country_yearly['neutral'] + df_country_yearly['negative']
@@ -29,28 +29,30 @@ def plot_sentiment_trends_yearly(df, country):
     fig = go.Figure()
 
     # Add traces for each sentiment type
-    fig.add_trace(go.Scatter(x=df_country_yearly.index.year, 
+    fig.add_trace(go.Scatter(x=df_country_yearly.index.year,  # Use integer years
                               y=df_country_yearly['positive_prop'], 
                               mode='lines+markers', 
                               name='Positive', 
                               line=dict(color='green')))
     
-    fig.add_trace(go.Scatter(x=df_country_yearly.index.year, 
+    fig.add_trace(go.Scatter(x=df_country_yearly.index.year,  # Use integer years
                               y=df_country_yearly['neutral_prop'], 
                               mode='lines+markers', 
                               name='Neutral', 
                               line=dict(color='blue')))
     
-    fig.add_trace(go.Scatter(x=df_country_yearly.index.year, 
+    fig.add_trace(go.Scatter(x=df_country_yearly.index.year,  # Use integer years
                               y=df_country_yearly['negative_prop'], 
                               mode='lines+markers', 
                               name='Negative', 
                               line=dict(color='red')))
 
+    # Update layout with x-axis formatted to show only full years
     fig.update_layout(title=f'Sentiment Trends Over the Years for {country.capitalize()}',
                       xaxis_title='Year',
                       yaxis_title='Proportion of Sentiment',
                       legend_title='Sentiment',
+                      xaxis=dict(tickmode='linear', tick0=df_country_yearly.index.year[0], dtick=1),  # Force tick labels to show every year
                       template='plotly_white')
 
     return fig
