@@ -1,76 +1,174 @@
-import pandas as pd
-import itertools
-import networkx as nx
-import matplotlib.pyplot as plt
-from dash import dcc, html
-from dash.dependencies import Input, Output
+from itertools import combinations
 import dash
+import os
+from dash import dcc, html, Input, Output, State
+import dash_cytoscape as cyto
+import pandas as pd
+import networkx as nx
 
-# Load the Excel file
-file_path = '../data/news_data_with_keywords.xlsx'  # Adjust path accordingly
+# Load the dataset from Excel
+file_path = os.path.join(os.path.dirname(__file__), '../data/Comment_topics.xlsx') 
 df = pd.read_excel(file_path)
 
-# Step 2: Define relevant keywords related to renewable energy and public opinion
-relevant_keywords = ['renewable', 'energy', 'solar', 'wind', 'power', 'public', 'opinion', 'policy', 'climate', 'change', 'electricity', 'environment']
+# Function to clean keywords
+def clean_keywords(keyword_string):
+    return [kw.strip().lower() for kw in keyword_string.split(',')]
 
-# Step 3: Extract and filter relevant keyword pairs
-def generate_relevant_keyword_pairs(keywords, relevant_keywords):
-    keywords_list = [kw.strip() for kw in keywords.split(',')]
-    filtered_keywords = [kw for kw in keywords_list if kw in relevant_keywords]
-    return list(itertools.combinations(filtered_keywords, 2))
+# Apply keyword cleaning to the 'Keywords' column
+df['Keywords'] = df['Keywords'].apply(clean_keywords)
 
-# Step 4: Build the network graph
-def build_network_graph(df, country):
-    # Filter the data for the selected country
-    df_country = df[df['country'] == country]
+# Get unique countries for the dropdown
+countries = df['Country'].unique()  # Assuming there's a 'Country' column in your DataFrame
+country_options = [{'label': country, 'value': country} for country in countries]
 
-    # Initialize an empty list to store relevant pairs
-    relevant_pairs = []
-    for keywords in df_country['extracted_keywords']:
-        relevant_pairs.extend(generate_relevant_keyword_pairs(keywords, relevant_keywords))
+# Get unique topics for each country
+def get_topics_for_country(country):
+    return df[df['Country'] == country]['Topic'].unique() 
 
-    # Build the co-occurrence network using NetworkX
+# Function to create a social network graph with sentiment-based edges
+def create_sentiment_network_graph(df, country, topic=None, weight_threshold=1):
+    # Filter the DataFrame for the specified country
+    filtered_df = df[df['Country'] == country]
+    
+    
+    
+    # Initialize a network graph
     G = nx.Graph()
-    for pair in relevant_pairs:
-        G.add_edge(pair[0], pair[1])
 
-    # Visualize the targeted network
-    plt.figure(figsize=(10, 8))
-    pos = nx.spring_layout(G, k=0.3)  # Layout for positioning nodes
-    nx.draw(G, pos, with_labels=True, node_size=3000, node_color='lightgreen', font_size=10, font_weight='bold', edge_color='gray')
-    plt.title(f"Relevant Keyword Network for {country.capitalize()} (Renewable Energy & Public Opinion)")
-    plt.show()  # Add this line to check if the graph is generated locally
-    plt.savefig(f'../assets/{country}_network.png')  # Save the plot to display in the app
-    plt.close()
+    # Add nodes and edges based on co-occurrence of keywords in each comment, with sentiment
+    for _, row in filtered_df.iterrows():
+        keywords = row['Keywords']
+        sentiment = row['Sentiment']
 
-# Step 5: Create the Dash app
+        # Check if sentiment is a string and apply lower() if it is
+        if isinstance(sentiment, str):
+            sentiment = sentiment.lower()
+        else:
+            # Assign a default sentiment or skip the row if sentiment is missing
+            sentiment = 'neutral'
+
+        # Create edges between all pairs of keywords within the same comment
+        for kw1, kw2 in combinations(keywords, 2):
+            if G.has_edge(kw1, kw2):
+                G[kw1][kw2]['weight'] += 1  # Increment weight if the edge already exists
+            else:
+                G.add_edge(kw1, kw2, weight=1, sentiment=sentiment)  # Add a new edge with sentiment
+
+    # Remove edges below the weight threshold
+    G.remove_edges_from([(u, v) for u, v, d in G.edges(data=True) if d['weight'] < weight_threshold])
+
+    # If a specific topic is provided, filter nodes based on it
+    if topic and topic != "All":
+        topic_filtered_df = filtered_df[filtered_df['Topic'].str.lower() == topic.lower()]
+        # Keep only edges where keywords exist in this filtered DataFrame
+        keywords_in_topic = [kw for _, row in topic_filtered_df.iterrows() for kw in row['Keywords']]
+        G = G.subgraph(keywords_in_topic).copy()
+
+    return G
+
+# Convert the graph into Dash Cytoscape elements
+def network_graph_to_cytoscape(G):
+    elements = []
+    
+    # Add nodes
+    for node in G.nodes():
+        elements.append({
+            'data': {'id': node, 'label': node}
+        })
+
+    # Add edges
+    for u, v, d in G.edges(data=True):
+        elements.append({
+            'data': {'source': u, 'target': v, 'weight': d['weight'], 'sentiment': d['sentiment']}
+        })
+    
+    return elements
+
+# Initialize the Dash app
 app = dash.Dash(__name__)
 
+# Layout for the Dash app
 app.layout = html.Div([
-    html.H1("Country-Based Keyword Network Graph"),
     dcc.Dropdown(
         id='country-dropdown',
-        options=[
-            {'label': 'australia', 'value': 'australia'},
-            {'label': 'india', 'value': 'india'},
-            {'label': 'china', 'value': 'china'},
-            {'label': 'singapore', 'value': 'singapore'}
-        ],
-        value='australia'  # Default value
+        options=country_options,
+        value=countries[0],  # Set the default country
+        clearable=False,
+        style={'width': '50%'}
     ),
-    html.Img(id='network-graph', src='/assets/australia_network.png')
+    dcc.Dropdown(
+        id='topic-dropdown',
+        value='All',  # Set default topic
+        clearable=False,
+        style={'width': '50%'}
+    ),
+    cyto.Cytoscape(
+        id='network-graph',
+        style={'width': '100%', 'height': '600px'},
+        layout={
+            'name': 'cose',
+            'nodeRepulsion': 10000,
+            'idealEdgeLength': 100,
+            'nodeOverlap': 10,
+            'padding': 50
+        },
+        stylesheet=[
+            {
+                'selector': 'node',
+                'style': {
+                    'label': 'data(label)',
+                    'background-color': 'skyblue',
+                    'font-size': '10px'
+                }
+            },
+            {
+                'selector': 'edge',
+                'style': {
+                    'line-color': 'gray',
+                    'width': '2'
+                }
+            },
+            {
+                'selector': '[sentiment = "positive"]',
+                'style': {'line-color': 'green'}
+            },
+            {
+                'selector': '[sentiment = "negative"]',
+                'style': {'line-color': 'red'}
+            }
+        ]
+    )
 ])
 
-# Step 6: Set up the callback to update the graph
+# Callback to update topics based on selected country
 @app.callback(
-    Output('network-graph', 'src'),
+    Output('topic-dropdown', 'options'),
     [Input('country-dropdown', 'value')]
 )
-def update_network_graph(country):
-    # Generate the network graph for the selected country
-    build_network_graph(df, country)
-    return f'/assets/{country}_network.png'
+def update_topic_options(selected_country):
+    topics = get_topics_for_country(selected_country)
+    topic_options = [{'label': topic, 'value': topic} for topic in topics] + [{'label': 'All', 'value': 'All'}]
+    return topic_options
+
+# Callback to update the graph based on country and topic
+@app.callback(
+    Output('network-graph', 'elements'),
+    [Input('country-dropdown', 'value'),
+     Input('topic-dropdown', 'value'),
+     Input('network-graph', 'tapNodeData')]
+)
+def update_graph(selected_country, selected_topic, tapped_node):
+    # Create the graph based on the selected country and topic
+    G = create_sentiment_network_graph(df, selected_country, selected_topic, weight_threshold=1)
+    
+    # If a node is tapped, show only the selected node and its neighbors with all weights
+    if tapped_node:
+        node = tapped_node['id']
+        subgraph = nx.ego_graph(G, node, radius=1)  # Get all neighbors within 1 hop
+        return network_graph_to_cytoscape(subgraph)
+
+    # Default case: return the graph for the selected country and topic
+    return network_graph_to_cytoscape(G)
 
 if __name__ == '__main__':
-    app.run_server(port=8052, debug=True)
-
+    app.run_server(port='8053', debug=True)
