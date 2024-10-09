@@ -1,3 +1,6 @@
+### After Starting Reat App
+  in path src\python\scripts>  Run command "python SA_Network.py"
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
