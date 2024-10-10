@@ -1,7 +1,9 @@
 
 import React ,{ useState } from 'react';
-import {ElectricityUsage} from '../../components/Malidi/ElectricityUsage';
+import {ElectricityUsage} from '../../components/Malidi/Consumption/ElectricityUsage';
 import './Dashboard.scss';
+import { Twitter } from '../../components/Malidi/Twitter/Twitter';
+import { Reddit } from '../../components/Malidi/Reddit/Reddit';
 export const Dashboard = ()=>{
     const [selectedCountry, setSelectedCountry] = useState('australia');
 
@@ -13,10 +15,32 @@ export const Dashboard = ()=>{
 
     return(
         <div className='border-margin'>
+            <div className='padding-top'>
             <div className='heading'>
                 <h1 className='heading-txt'>DASHBOARD FOR RENEWABLE ENERGY</h1>
             </div>
-            
+
+            <div>
+                    <select value={selectedCountry} onChange={handleCountryChange}>
+                    <option value="australia">Australia</option>
+                    <option value="india">India</option>
+                    <option value="singapore">Singapore</option>
+                    <option value="china">China</option>
+                    </select>
+                </div>
+
+            <div className='heading2'>
+                <h1 className='heading-txt2'>Latest trends & current affairs on renewable energy</h1>
+            </div>
+
+<div className='align-flex'>
+    <div style={{width:'50%'}}>
+            <Twitter selectedCountry={selectedCountry}/>
+            </div>
+            <div style={{width:'50%'}}>
+            <Reddit/>
+            </div>
+            </div>
             <div className='heading2'>
                 <h1 className='heading-txt2'>Sentiment Trends with Prediction (2021-2026)</h1>
             </div>
@@ -60,9 +84,9 @@ export const Dashboard = ()=>{
             <div className='heading2'>
                 <h1 className='heading-txt2'>Current & Future renewable energy production analysis</h1>
             </div>
-                <ElectricityUsage/>
+                <ElectricityUsage selectedCountry={selectedCountry}/>
         </div>
-
+        </div>
 
 
         

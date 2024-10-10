@@ -29,5 +29,16 @@
 
 .border-margin{
     padding: 50px;
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(54,73,83,1) 100%);
+}
+
+.padding-top{
+    padding-top: 20px;
     background-color: white;
+    border-radius: 10px;
+}
+
+.align-flex{
+    display: flex;
 }
