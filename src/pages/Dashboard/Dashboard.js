@@ -4,6 +4,7 @@ import {ElectricityUsage} from '../../components/Malidi/Consumption/ElectricityU
 import './Dashboard.scss';
 import { Twitter } from '../../components/Malidi/Twitter/Twitter';
 import { Reddit } from '../../components/Malidi/Reddit/Reddit';
+import { Usage } from '../../components/Dilanthi/Usage/Usage';
 export const Dashboard = ()=>{
     const [selectedCountry, setSelectedCountry] = useState('australia');
 
@@ -86,6 +87,10 @@ export const Dashboard = ()=>{
             </div>
                 <ElectricityUsage selectedCountry={selectedCountry}/>
         </div>
+        <div className='heading2'>
+                <h1 className='heading-txt2'>Usage of Renewable Energy </h1>
+            </div>
+            <Usage selectedCountry={selectedCountry}/>
         </div>
 
 
