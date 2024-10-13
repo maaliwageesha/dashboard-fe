@@ -27,9 +27,9 @@ export const Dashboard = () => {
   return (
     <div className='border-margin'>
       <div className='padding-top'>
-        <div className='heading'>
+        {/* <div className='heading'>
           <h1 className='heading-txt'>DASHBOARD FOR RENEWABLE ENERGY</h1>
-        </div>
+        </div> */}
 
         {/* Country Selection Dropdown */}
         <CountrySelect selectedCountry={selectedCountry} onChange={handleCountryChange} />
