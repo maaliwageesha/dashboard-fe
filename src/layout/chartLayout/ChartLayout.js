@@ -2,7 +2,7 @@
 import { useState } from 'react';
 import Nav from 'react-bootstrap/Nav';
 import './ChartLayout.scss';
-import { BsArrowDown } from 'react-icons/bs';
+import { BsArrowDown, BsPieChartFill, BsTable } from 'react-icons/bs';
 export const ChartLayout = ({chartChild, DataChild, title,filePath,chartDescription,dataSource})=>{
     const [isChart,SetIsChart]=useState(true);
     const [isData,SetIsData]=useState(false);
@@ -20,10 +20,10 @@ export const ChartLayout = ({chartChild, DataChild, title,filePath,chartDescript
 
                 <Nav variant="underline" defaultActiveKey="/home">
       <Nav.Item>
-        <Nav.Link eventKey="link-1" onClick={()=>{SetIsChart(true); SetIsData(false)}}>Chart</Nav.Link>
+        <Nav.Link eventKey="link-1 d-flex justify-content-between" onClick={()=>{SetIsChart(true); SetIsData(false)}}><BsPieChartFill /> <span>Chart</span></Nav.Link>
       </Nav.Item>
       <Nav.Item>
-        <Nav.Link eventKey="link-2" onClick={()=>{SetIsChart(false); SetIsData(true)}}>Data</Nav.Link>
+        <Nav.Link eventKey="link-2 d-flex justify-content-between" onClick={()=>{SetIsChart(false); SetIsData(true)}}><BsTable className='me-2'/><span>Data</span></Nav.Link>
       </Nav.Item>
     </Nav>
 
@@ -34,7 +34,7 @@ export const ChartLayout = ({chartChild, DataChild, title,filePath,chartDescript
 
 
     <div className=' mt-3 d-flex justify-content-between'>
-<div>Data Source:- {dataSource}</div>
+<div><b>Data Source:-</b> {dataSource}</div>
 
 <div className='arrow-ico' onClick={()=>{window.location.href=window.location.origin+filePath}}><BsArrowDown /></div>
 

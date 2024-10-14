@@ -1,10 +1,11 @@
+import { BsGlobeAmericas } from 'react-icons/bs';
 import './layout.scss';
 import { LeftMenu } from './LeftMenu/LeftMenu';
 export const Layout =({children})=>{
 
     return(
         <div>
-            <div className='layout-head'>Dashboard for Renewable Energy in the Indo Pacific Region</div>
+            <div className='layout-head'><BsGlobeAmericas className='me-3'/>Dashboard for Renewable Energy in the Indo Pacific Region</div>
         <div className='d-flex'>
             <div>
            <LeftMenu/>

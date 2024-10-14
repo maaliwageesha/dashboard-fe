@@ -9,6 +9,8 @@ import { EnergySource } from './pages/EnergySource/EnergySource';
 import { RedditPage } from './pages/Reddit/Reddit';
 
 import { TwitterPage } from './pages/Twitter/Twitter';
+import { Stakehokder } from './pages/Stakeholder/Stakeholder';
+import { Main } from './pages/Main/Main';
 
 function App() {
   return (
@@ -17,7 +19,7 @@ function App() {
        <Routes>
        <Route path="/" element={
         <Layout>
-        <Dashboard />
+        <Main />
         </Layout>} />
 
 
@@ -47,6 +49,13 @@ function App() {
         <Route path="/twitter-analysis" element={
         <Layout>
         <TwitterPage  />
+        </Layout>} />
+
+
+        
+        <Route path="/stakeholder-analysis" element={
+        <Layout>
+        <Stakehokder  />
         </Layout>} />
 
 

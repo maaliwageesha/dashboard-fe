@@ -7,7 +7,7 @@ export const TwitterPage = () =>{
         <div>
 
 <div className='heading2'>
-          <h1 className='heading-txt2 me-2'> Latest Energy Sources Focused on Twitter (Past Week)</h1>
+          <h1 className='heading-txt2 me-2'> Popularity & Engagement of Renewable Energy in Twitter</h1>
         </div>
 
 

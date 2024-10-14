@@ -29,6 +29,7 @@ import property from '../../assets/property-Icon.png'
 import password from '../../assets/password-Icon.png'
 import checklist from '../../assets/checklist-Icon.png'
 import settings from '../../assets/settings-ico.png'
+import { BsGraphDownArrow, BsGraphUpArrow, BsHddNetwork, BsPeople, BsTwitterX } from 'react-icons/bs';
 
 
 export const LeftMenu = ({type,isOpen}) => {
@@ -91,7 +92,7 @@ export const LeftMenu = ({type,isOpen}) => {
         <li className="nav-item ">
           <div className="nav-links" onClick={toggleManagementDropdown}>
           <div>
-          <span><img className='pe-3' src={userIco} /></span>
+          <span><BsGraphUpArrow className='me-3' /></span>
             <span className="link-text">Sentiments</span>
             </div>
             <div className='d-flex'>
@@ -130,7 +131,7 @@ export const LeftMenu = ({type,isOpen}) => {
 
 <div className="nav-links" onClick={toggleSettingsDropdown}>
           <div>
-          <span><img className='pe-3' src={settings} /></span>
+          <span><BsGraphDownArrow className='me-3' /></span>
             <span className="link-text">Cosumption</span>
             </div>
             <div className='d-flex'>
@@ -170,7 +171,7 @@ export const LeftMenu = ({type,isOpen}) => {
 
 <div className="nav-links" onClick={toggleNetworkDropdown}>
           <div>
-          <span><img className='pe-3' src={settings} /></span>
+          <span><BsHddNetwork className='me-3' /></span>
             <span className="link-text">Network Analysis</span>
             </div>
             <div className='d-flex'>
@@ -219,7 +220,7 @@ export const LeftMenu = ({type,isOpen}) => {
 
 <div className="nav-links" onClick={toggleSocialDropdown}>
           <div>
-          <span><img className='pe-3' src={settings} /></span>
+          <span><BsTwitterX className='me-3' /></span>
             <span className="link-text">Popularity Analysis</span>
             </div>
             <div className='d-flex'>
@@ -254,7 +255,7 @@ export const LeftMenu = ({type,isOpen}) => {
 
 <div className="nav-links" onClick={toggleStakeholderDropdown}>
           <div>
-          <span><img className='pe-3' src={settings} /></span>
+          <span><BsPeople className='me-3' /></span>
             <span className="link-text">Stakeholder </span>
             </div>
             <div className='d-flex'>
@@ -264,14 +265,11 @@ export const LeftMenu = ({type,isOpen}) => {
           </div>
           {isStakeholderDropdownVisible && (
             <ul className="dropdown ps-2">
-     <li className={`dropdown-item ${path === '/user-management' ? 'active' : ''}`}>
+     <li className={`dropdown-item ${path === '/stakeholder-analysis' ? 'active' : ''}`}>
                 <span><img className='pe-3' src={property} /></span>
-                <Link to="/user-management" className="dropdown-nav-links">Stakeholder Analysis</Link>
+                <Link to="/stakeholder-analysis" className="dropdown-nav-links">Stakeholder Analysis</Link>
               </li>
-     <li className={`dropdown-item ${path === '/property-management' ? 'active' : ''}`}>
-              <span><img className='pe-3' src={property} /></span>
-                <Link to="/property-management" className="dropdown-nav-links">Twitter Analysis</Link>
-              </li>
+
              
             </ul>
           )}

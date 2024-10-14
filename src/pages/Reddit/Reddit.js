@@ -7,7 +7,7 @@ export const RedditPage = () =>{
         <div>
 
 <div className='heading2'>
-          <h1 className='heading-txt2'>Sentiment Trends with Prediction (2021-2026)</h1>
+          <h1 className='heading-txt2'>Popularity & Engagement of Renewable Energy in Reddit</h1>
         </div>
 
 
