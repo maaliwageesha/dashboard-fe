@@ -6,6 +6,9 @@ import { Usage } from '../../components/Dilanthi/Usage/Usage';
 import { SentimentTrend } from '../../components/Shenuki/SentimentTrend'
 import './Dashboard.scss';
 import { Analysis } from '../../components/Bhumi/Analysis';
+import { InvestmentForecast } from '../../components/Kalpani/Investments/InvestmentForecast';
+import { PolicyAnalysis } from '../../components/Kalpani/PolicyAnalysis/PolicyAnalysis';
+
 
 // A reusable component for country selection dropdown
 const CountrySelect = ({ selectedCountry, onChange }) => (
@@ -97,6 +100,18 @@ export const Dashboard = () => {
         </div>
         {/* Renewable Energy Usage Component */}
         <Analysis selectedCountry={selectedCountry} />
+
+        <div className='heading2'>
+          <h1 className='heading-txt2'>Annual Investment on Renewable Energy</h1>
+        </div>
+        {/* Investment Forecast Component */}
+        <InvestmentForecast selectedCountry={selectedCountry} />  
+
+        <div className='heading2'>
+          <h1 className='heading-txt2'>Policy Analysis</h1>
+        </div>
+        {/* Policy Analysis Component */}
+        <PolicyAnalysis selectedCountry={selectedCountry} />
       </div>
     </div>
   );
