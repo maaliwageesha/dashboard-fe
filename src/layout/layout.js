@@ -6,11 +6,11 @@ export const Layout =({children})=>{
         <div>
             <div className='layout-head'>Dashboard for Renewable Energy in the Indo Pacific Region</div>
         <div className='d-flex'>
-            <div style={{width:'15%'}}>
+            <div>
            <LeftMenu/>
            </div>
 
-        <div style={{width:'85%'}}>
+        <div style={{width:'100%',backgroundColor:'rgba(136, 51, 255, 0.08)'}}>
            {children}
            </div>
 
