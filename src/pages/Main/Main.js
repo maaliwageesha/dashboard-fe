@@ -44,9 +44,8 @@ export const Main = () =>{
                     />
                 </div>
                 <div className="col-6">
-                    <h4>Pie chart</h4>
                     <iframe
-                        src=""
+                        src="Bhumi/stakeholders_australia.html"
                         title="Plotly Graph"
                         style={{ width: '100%', height: '400px', border: 'none' }}
                     />

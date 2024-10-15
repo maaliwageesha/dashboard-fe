@@ -4,7 +4,7 @@ import { Twitter } from '../../components/Malidi/Twitter/Twitter';
 import { Reddit } from '../../components/Malidi/Reddit/Reddit';
 import { Usage } from '../../components/Dilanthi/Usage/Usage';
 import './Dashboard.scss';
-import { Analysis } from '../../components/Bhumi/Analysis';
+import { Analysis, Stakeholder } from '../../components/Bhumi/Stakeholder';
 
 // A reusable component for country selection dropdown
 const CountrySelect = ({ selectedCountry, onChange }) => (
@@ -92,7 +92,7 @@ export const Dashboard = () => {
           <h1 className='heading-txt2'>Annual Subsidies for Renewable Energy Projects Australia (2014-2023)</h1>
         </div>
         {/* Renewable Energy Usage Component */}
-        <Analysis selectedCountry={selectedCountry} />
+        <Stakeholder selectedCountry={selectedCountry} />
       </div>
     </div>
   );
