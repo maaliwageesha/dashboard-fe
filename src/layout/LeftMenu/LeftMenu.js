@@ -181,14 +181,14 @@ export const LeftMenu = ({type,isOpen}) => {
           </div>
           {isNetworkDropdownVisible && (
             <ul className="dropdown ps-2">
-     <li className={`dropdown-item ${path === '/user-management' ? 'active' : ''}`}>
+            <li className={`dropdown-item ${path === '/user-management' ? 'active' : ''}`}>
                 <span><img className='pe-3' src={property} /></span>
-                <Link to="/user-management" className="dropdown-nav-links">Cost</Link>
-              </li>
-     <li className={`dropdown-item ${path === '/property-management' ? 'active' : ''}`}>
+                <Link to="/network-diagram" className="dropdown-nav-links">Topic Wise Network Diagram</Link>
+            </li>
+            {/* <li className={`dropdown-item ${path === '/property-management' ? 'active' : ''}`}>
               <span><img className='pe-3' src={property} /></span>
                 <Link to="/property-management" className="dropdown-nav-links">Economic Factors</Link>
-              </li>
+            </li>
 
 
               <li className={`dropdown-item ${path === '/property-management' ? 'active' : ''}`}>
@@ -200,7 +200,7 @@ export const LeftMenu = ({type,isOpen}) => {
               <li className={`dropdown-item ${path === '/property-management' ? 'active' : ''}`}>
               <span><img className='pe-3' src={property} /></span>
                 <Link to="/property-management" className="dropdown-nav-links">Environmental Factors</Link>
-              </li>
+              </li> */}
 
              
             </ul>

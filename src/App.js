@@ -58,6 +58,17 @@ function App() {
         <Stakehokder  />
         </Layout>} />
 
+        <Route path="/network-diagram" element={
+          <Layout>
+          {/* Social Network iFrame */}
+          <iframe
+            src="http://127.0.0.1:8053/"
+            style={{ width: '100%', height: '600px', border: 'none', paddingLeft: '10px', marginTop: '20px' }}
+            title="Social Network of Keywords"
+          ></iframe>
+          </Layout>} />
+        
+
 
 
        </Routes>
