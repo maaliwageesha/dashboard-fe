@@ -11,6 +11,9 @@ import { RedditPage } from './pages/Reddit/Reddit';
 import { TwitterPage } from './pages/Twitter/Twitter';
 import { Stakehokder } from './pages/Stakeholder/Stakeholder';
 import { Main } from './pages/Main/Main';
+import { PoliciesPage } from './pages/Policies/Policies';  
+import { InvestmentsPage } from './pages/Investments/Investments';  
+
 
 function App() {
   return (
@@ -68,7 +71,18 @@ function App() {
           ></iframe>
           </Layout>} />
         
+                             
+          <Route path="/Policies" element={
+            <Layout>
+              <PoliciesPage />  
+            </Layout>
+          } />
 
+          <Route path="/Investments" element={
+            <Layout>
+              <InvestmentsPage />
+            </Layout>
+          } />
 
 
        </Routes>
