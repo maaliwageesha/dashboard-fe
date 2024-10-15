@@ -1,0 +1,16 @@
+﻿Country,Year,Expenditure on Renewable Energy (billion USD),Data Source
+China,2020,213,https://www.iea.org/data-and-statistics/data-product/world-energy-investment-2024-datafile
+China,2021,216,https://www.iea.org/data-and-statistics/data-product/world-energy-investment-2024-datafile
+China,2022,302,https://www.iea.org/data-and-statistics/data-product/world-energy-investment-2024-datafile
+China,2023,388,https://www.iea.org/data-and-statistics/data-product/world-energy-investment-2024-datafile
+China,2024,409,https://www.iea.org/data-and-statistics/data-product/world-energy-investment-2024-datafile
+India,2020,0.7,https://www.indiabudget.gov.in/budget2020-21/expenditure_profile.php
+India,2021,0.7,https://www.indiabudget.gov.in/budget2021-22/doc/eb/sumsbe.pdf
+India,2022,0.84,https://www.indiabudget.gov.in/budget2022-23/doc/eb/sumsbe.pdf
+India,2023,1.25,https://www.indiabudget.gov.in/budget2023-24/doc/eb/sumsbe.pdf
+India,2024,1.57,https://www.indiabudget.gov.in/budget2024-25(I)/doc/eb/allsbe.pdf
+Australia,2020,2.23,https://archive.budget.gov.au/2020-21/index.htm
+Australia,2021,2.27,https://archive.budget.gov.au/2021-22/index.htm
+Australia,2022,2.4,https://archive.budget.gov.au/2022-23/index.htm
+Australia,2023,12.74,https://archive.budget.gov.au/2023-24/index.htm
+Australia,2024,3,https://budget.gov.au/content/bp1/index.htm
