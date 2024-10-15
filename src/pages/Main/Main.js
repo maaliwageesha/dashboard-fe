@@ -64,10 +64,9 @@ export const Main = () =>{
                 </div>
             </div>
 
-            <div className="row">
-                <h4>Investment line graph</h4>
+             <div className="row">
                 <iframe
-                    src=""
+                    src="Investment/combined_investment_forecast.html" 
                     title="Plotly Graph"
                     style={{ width: '100%', height: '400px', border: 'none' }}
                 />
@@ -110,15 +109,27 @@ export const Main = () =>{
                 
             </div>
 
-            {/* Topic Modeling Graphs */}
+           {/* Topic Modeling Graphs */}
             <div className="row">
-                <h4>Policy Document Topic Modeling Graphs</h4>
-                <iframe
-                    src=""
-                    title="Plotly Graph"
-                    style={{ width: '100%', height: '400px', border: 'none' }}
-                />
+                <h4>Topic Analysis of Policy Documents</h4>
+                <div className="col-12">
+                    <iframe
+                        src="Policy/combined_lda.html"  
+                        title="LDA Topic Modeling Graph-Combined"
+                        style={{ width: '100%', height: '700px', border: 'none' }}
+                    />
+                </div>
+                
+                <div className="col-12 mt-3"> 
+                    <h4>Word Frequency Analysis of Policy Documents</h4> 
+                    <iframe
+                        src="Policy/combined_wordcloud.html"  
+                        title="Wordcloud Graph"
+                        style={{ width: '100%', height: '400px', border: 'none' }}
+                    />
+                </div>
             </div>
+
         </div>
 
     )
