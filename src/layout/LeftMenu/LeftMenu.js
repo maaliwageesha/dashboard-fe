@@ -68,7 +68,13 @@ export const LeftMenu = ({type,isOpen}) => {
     setSocialDropdownVisible(!isSocialDropdownVisible);
   };
 
+  const togglePolicyDropdown = () => {
+    setPolicyDropdownVisible(!isPolicyDropdownVisible);
+  };
 
+  const toggleInvestmentDropdown = () => {
+    setInvestmentDropdownVisible(!isInvestmentDropdownVisible);
+  };
 
 
   return (
@@ -277,6 +283,51 @@ export const LeftMenu = ({type,isOpen}) => {
           
         </li>
 
+      {/* Policy Analysis Menu Item with Dropdown */}
+      <li className="nav-item">
+        <div className="nav-links" onClick={togglePolicyDropdown}>
+          <div>
+            <span><BsGraphUpArrow className='me-3' /></span>
+            <span className="link-text">Policies</span>
+          </div>
+          <div className='d-flex'>
+            <span className="dropdown-arrow">
+              {isPolicyDropdownVisible ? <img className='ps-2' src={dropdownup} alt="up" /> : <img className='ps-2' src={dropdowndown} alt="down" />}
+            </span>
+          </div>
+        </div>
+        {isPolicyDropdownVisible && (
+          <ul className="dropdown ps-2">
+            <li className={`dropdown-item ${path === '/Policies' ? 'active' : ''}`}>
+              <span><img className='pe-3' src={property} alt="icon" /></span>
+              <Link to="/Policies" className="dropdown-nav-links">Policy Analysis</Link>
+            </li>
+          </ul>
+        )}
+      </li>
+
+      {/* Investment Analysis Menu Item with Dropdown */}
+      <li className="nav-item">
+        <div className="nav-links" onClick={toggleInvestmentDropdown}>
+          <div>
+            <span><BsGraphUpArrow className='me-3' /></span>
+            <span className="link-text">Investments</span>
+          </div>
+          <div className='d-flex'>
+            <span className="dropdown-arrow">
+              {isInvestmentDropdownVisible ? <img className='ps-2' src={dropdownup} alt="up" /> : <img className='ps-2' src={dropdowndown} alt="down" />}
+            </span>
+          </div>
+        </div>
+        {isInvestmentDropdownVisible && (
+          <ul className="dropdown ps-2">
+            <li className={`dropdown-item ${path === '/Investments' ? 'active' : ''}`}>
+              <span><img className='pe-3' src={property} alt="icon" /></span>
+              <Link to="/Investments" className="dropdown-nav-links">Investment Analysis</Link>
+            </li>
+          </ul>
+        )}
+      </li>
         </div>
       </ul>
     </nav>
