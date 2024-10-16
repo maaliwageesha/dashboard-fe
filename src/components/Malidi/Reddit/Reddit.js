@@ -21,9 +21,9 @@ export const Reddit = () => {
           />
         }
         filePath={'/reddit/reddit_renewable_energy.csv'}
-        chartDescription="When looking at longer historical data it can be difficult to see how the energy mix is changing from year-to-year. Are we adding more renewables than fossil fuels? Are we in fact reducing our consumption of coal or oil?"
+        chartDescription="When looking at the following bar graph it shows the engagements made by each country in reddit in the past week. As per the graph most engagements are done in China for renewable energy."
         dataSource={
-          'Energy Institute - Statistical Review of World Energy (2024)'
+          'Reddit forums,comments and posts'
         }
       />
     </div>

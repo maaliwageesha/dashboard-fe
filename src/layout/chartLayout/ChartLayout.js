@@ -16,7 +16,7 @@ export const ChartLayout = ({chartChild, DataChild, title,filePath,chartDescript
         <div className='chart-background'>
             <div className='title'>{title}</div>
 
-            <div className='chart-desc'>{chartDescription}</div>
+            <div className='chart-desc pb-3'>{chartDescription}</div>
 
                 <Nav variant="underline" defaultActiveKey="/home">
       <Nav.Item>
@@ -34,7 +34,7 @@ export const ChartLayout = ({chartChild, DataChild, title,filePath,chartDescript
 
 
     <div className=' mt-3 d-flex justify-content-between'>
-<div><b>Data Source:-</b> {dataSource}</div>
+<div className='Source'><b>Data Source:-</b> {dataSource}</div>
 
 <div className='arrow-ico' onClick={()=>{window.location.href=window.location.origin+filePath}}><BsArrowDown /></div>
 
