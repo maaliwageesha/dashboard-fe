@@ -40,6 +40,8 @@ export const LeftMenu = ({type,isOpen}) => {
   const [isNetworkDropdownVisible, setNetworkDropdownVisible] = useState(false);
   const [isStakeholderDropdownVisible, setStakeholderDropdownVisible] = useState(false);
   const [isSocialDropdownVisible, setSocialDropdownVisible] = useState(false);
+  const [isPolicyDropdownVisible, setPolicyDropdownVisible] = useState(false);
+  const [isInvestmentDropdownVisible, setInvestmentDropdownVisible] = useState(false);
 
 
   const path = window.location.pathname;
