@@ -124,13 +124,13 @@ export const ElectricityUsage = () => {
           }
           DataChild={
             <CsvTable
-              filePath={'/consumption/AUS Renewable Energy Progress.csv'}
+              filePath={'/consumption/Energy_Consumption_Data.csv'}
             />
           }
-          filePath={'/consumption/AUS Renewable Energy Progress.csv'}
-          chartDescription="When looking at longer historical data it can be difficult to see how the energy mix is changing from year-to-year. Are we adding more renewables than fossil fuels? Are we in fact reducing our consumption of coal or oil?"
+          filePath={'/consumption/Energy_Consumption_Data.csv'}
+          chartDescription="Chinas energy consumption showed a very high increase after 2012. Before 2012 it was a steady increase. The decision makers have seemed to take better decisions after 2012. "
           dataSource={
-            'Energy Institute - Statistical Review of World Energy (2024)'
+            'U.S. Energy Information Administration (2023); Energy Institute - Statistical Review of World Energy (2024)'
           }
         />
       )}
@@ -153,7 +153,7 @@ export const ElectricityUsage = () => {
           filePath={'/consumption/China_generation.csv'}
           chartDescription="When looking at longer historical data it can be difficult to see how the energy mix is changing from year-to-year. Are we adding more renewables than fossil fuels? Are we in fact reducing our consumption of coal or oil?"
           dataSource={
-            'Energy Institute - Statistical Review of World Energy (2024)'
+            'International Renewable Energy Agency (http://www.irena.org/-/media/Files/IRENA/Agency/Publication/2024/Jul/IRENA_Stats_extract_2024-H2.xlsx)'
           }
         />
       )}
@@ -174,9 +174,9 @@ export const ElectricityUsage = () => {
             <CsvTable filePath={'/consumption/China_generation.csv'} />
           }
           filePath={'/consumption/China_generation.csv'}
-          chartDescription="When looking at longer historical data it can be difficult to see how the energy mix is changing from year-to-year. Are we adding more renewables than fossil fuels? Are we in fact reducing our consumption of coal or oil?"
+          chartDescription="The capacity analysis followed a similar line to generation analysis. But the line resides in a lower GWh value. But it's still a good sign for China."
           dataSource={
-            'Energy Institute - Statistical Review of World Energy (2024)'
+            'International Renewable Energy Agency (http://www.irena.org/-/media/Files/IRENA/Agency/Publication/2024/Jul/IRENA_Stats_extract_2024-H2.xlsx)'
           }
         />
       )}
@@ -266,13 +266,13 @@ export const ElectricityUsage = () => {
           }
           DataChild={
             <CsvTable
-              filePath={'/consumption/Singapore_generation.csv'}
+              filePath={'/consumption/Energy_Consumption_Data.csv'}
             />
           }
-          filePath={'/consumption/AUS Renewable Energy Progress.csv'}
+          filePath={'/consumption/Energy_Consumption_Data.csv'}
           chartDescription="As per the analysis there was a sharp rise in the data towards more recent years, showing significant growth in renewables. The forecasted values suggested future growth will continue, though with a steadier increase. So, Singapore is in a positive state regarding their consumption."
           dataSource={
-            'Energy Institute - Statistical Review of World Energy (2024)'
+            'U.S. Energy Information Administration (2023); Energy Institute - Statistical Review of World Energy (2024)'
           }
         />
       )}
@@ -291,13 +291,13 @@ export const ElectricityUsage = () => {
           }
           DataChild={
             <CsvTable
-              filePath={'/consumption/IRENA_Stats_extract_2024 H2.csv'}
+              filePath={'/consumption/Singapore_generation.csv'}
             />
           }
           filePath={'/consumption/IRENA_Stats_extract_2024 H2.csv'}
-          chartDescription="When looking at longer historical data it can be difficult to see how the energy mix is changing from year-to-year. Are we adding more renewables than fossil fuels? Are we in fact reducing our consumption of coal or oil?"
+          chartDescription="The generation of renewable energy in Singapore was rapid in the recent years. And the forecasted years also showed a positive increment. So, it shows that Singapore is moving into a more rapid generation of renewable energy. "
           dataSource={
-            'Energy Institute - Statistical Review of World Energy (2024)'
+            'International Renewable Energy Agency (http://www.irena.org/-/media/Files/IRENA/Agency/Publication/2024/Jul/IRENA_Stats_extract_2024-H2.xlsx)'
           }
         />
       )}
@@ -316,13 +316,13 @@ export const ElectricityUsage = () => {
           }
           DataChild={
             <CsvTable
-              filePath={'/consumption/IRENA_Stats_extract_2024 H2.csv'}
+              filePath={'/consumption/Singapore_generation.csv'}
             />
           }
-          filePath={'/consumption/IRENA_Stats_extract_2024 H2.csv'}
-          chartDescription="When looking at longer historical data it can be difficult to see how the energy mix is changing from year-to-year. Are we adding more renewables than fossil fuels? Are we in fact reducing our consumption of coal or oil?"
+          filePath={'/consumption/Singapore_generation.csv'}
+          chartDescription="The capacity graph also showed a similar pattern to the generation graph. This gives a good insight that Singapore is aware of their renewable energy capacity"
           dataSource={
-            'Energy Institute - Statistical Review of World Energy (2024)'
+            'International Renewable Energy Agency (http://www.irena.org/-/media/Files/IRENA/Agency/Publication/2024/Jul/IRENA_Stats_extract_2024-H2.xlsx)'
           }
         />
       )}

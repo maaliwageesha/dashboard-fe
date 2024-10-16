@@ -1,292 +1,292 @@
-Region,Sub-region,Country,ISO3 code,M49 code,RE or Non-RE,Group Technology,Technology,Sub-Technology,Producer Type,Year,Electricity Generation (GWh),Electricity Installed Capacity (MW),Heat Generation (TJ),"Off-grid Biogas for Cooking (1,000 inhabitants)","Off-grid Biogas Production (1,000 m3)","Off-grid Electricity Access (1,000 inhabitants)",Public Flows (2021 USD M),SDG 7a1 Intl. Public Flows (2021 USD M),SDG 7b1 RE capacity per capita (W/inhabitant)
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Coal and peat,Coal and peat,On-grid electricity,2013,313.6,82.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Coal and peat,Coal and peat,On-grid electricity,2014,542.4,143.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Coal and peat,Coal and peat,On-grid electricity,2015,603.3,161.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Coal and peat,Coal and peat,On-grid electricity,2016,619.0,161.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Coal and peat,Coal and peat,On-grid electricity,2017,678.9,177.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Coal and peat,Coal and peat,On-grid electricity,2018,687.8,176.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Coal and peat,Coal and peat,On-grid electricity,2019,649.7,148.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Coal and peat,Coal and peat,On-grid electricity,2020,530.8,117.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Coal and peat,Coal and peat,On-grid electricity,2021,669.5,141.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Coal and peat,Coal and peat,On-grid electricity,2022,571.1,122.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Coal and peat,Coal and peat,On-grid electricity,2023,0.0,110.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2000,24162.8,4887.07,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2001,25228.1,5901.57,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2002,26451.8,6895.57,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2003,26922.5,6895.57,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2004,28088.6,7219.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2005,28430.2,7219.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2006,30715.8,7368.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2007,32372.5,7869.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2008,33461.3,8069.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2009,33691.0,8077.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2010,35022.6,7665.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2011,35879.5,7732.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2012,39567.0,9143.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2013,44025.5,11496.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2014,47031.6,12367.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2015,47888.6,12802.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2016,49110.4,12796.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2017,49718.9,12930.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2018,50471.3,12939.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2019,51759.8,11801.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2020,50850.6,11236.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2021,52943.8,11130.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2022,52544.0,11258.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2023,0.0,11539.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2000,7502.2,1517.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2001,7832.9,1832.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2002,8212.8,2140.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2003,8359.0,2140.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2004,8721.0,2241.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2005,8827.1,2241.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2006,7817.1,1875.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2007,7774.3,1889.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2008,7167.3,1728.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2009,7064.2,1693.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2010,9164.0,2005.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2011,8923.9,1923.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2012,6101.7,1410.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2013,2249.5,587.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2014,345.2,91.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2015,331.8,89.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2016,361.1,94.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2017,365.6,95.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2018,317.4,81.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2019,216.6,49.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2020,212.3,47.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2021,557.9,117.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2022,1484.9,318.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2023,0.0,37.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2000,477.65,152.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2001,477.65,152.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2002,477.65,152.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2003,477.65,152.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2004,477.65,152.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2005,477.65,152.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2006,473.75,152.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2007,493.6,152.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2008,520.65,152.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2009,521.65,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2010,588.15,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2011,595.25,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2012,629.2,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2013,680.4,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2014,627.45,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2015,628.4,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2016,619.05,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2017,600.6,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2018,555.5,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2019,514.35,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2020,451.2,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2021,418.4,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2022,799.6,196.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2023,0.0,196.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2000,477.65,152.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2001,477.65,152.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2002,477.65,152.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2003,477.65,152.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2004,477.65,152.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2005,477.65,152.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2006,473.75,152.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2007,493.6,152.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2008,520.65,152.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2009,521.65,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2010,588.15,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2011,595.25,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2012,629.2,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2013,680.4,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2014,627.45,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2015,628.4,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2016,619.05,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2017,600.6,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2018,555.5,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2019,514.35,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2020,451.2,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2021,418.4,128.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2022,799.6,196.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2023,0.0,196.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,37.71953931
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2001,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,37.09961112
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2002,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,36.60702443
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,36.17725007
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2004,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.80460008
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.19281358
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2006,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.07938736
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2007,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.78824924
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2008,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31.60134276
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2009,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.6251417
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2010,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.86642046
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.31199331
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2012,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.86171356
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2013,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.28046542
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2014,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.92342414
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2015,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,36.35386648
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,36.83516596
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2017,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,36.67282102
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2018,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,37.73301296
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2019,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.18338744
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2020,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.57096409
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2021,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.74127513
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2022,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45.93612552
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other vegetal and agricultural waste,On-grid electricity,2013,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other vegetal and agricultural waste,On-grid electricity,2014,98.6,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other vegetal and agricultural waste,On-grid electricity,2015,150.8,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other vegetal and agricultural waste,On-grid electricity,2016,154.8,40.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other vegetal and agricultural waste,On-grid electricity,2017,156.7,41.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other vegetal and agricultural waste,On-grid electricity,2018,158.7,40.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other vegetal and agricultural waste,On-grid electricity,2019,162.4,37.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other vegetal and agricultural waste,On-grid electricity,2020,159.2,35.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other vegetal and agricultural waste,On-grid electricity,2021,223.2,47.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other vegetal and agricultural waste,On-grid electricity,2022,171.3,37.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other vegetal and agricultural waste,On-grid electricity,2023,0.0,49.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2001,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2002,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2004,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2006,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2007,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2008,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2009,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2010,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2012,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2013,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2014,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2015,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2017,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2018,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2019,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2020,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2021,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2022,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2001,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2002,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2004,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2006,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2007,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2008,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2009,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2010,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2012,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2013,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2014,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2015,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2017,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2018,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2019,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2020,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2021,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2022,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2001,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2002,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2004,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2006,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2007,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2008,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2009,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2010,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2012,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2013,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.000182547
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2014,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.002872273
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2015,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.003716802
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.003676514
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2017,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.003642995
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2018,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.003611638
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2019,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.003579705
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2020,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.003553378
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2021,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.003534723
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2022,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.003514239
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,On-grid electricity,2013,0.001,0.001,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,On-grid electricity,2014,0.005,0.016,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,On-grid electricity,2015,0.006,0.021,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,On-grid electricity,2016,0.006,0.021,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,On-grid electricity,2017,0.006,0.021,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,On-grid electricity,2018,0.006,0.021,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,On-grid electricity,2019,0.006,0.021,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,On-grid electricity,2020,0.006,0.021,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,On-grid electricity,2021,0.006,0.021,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,On-grid electricity,2022,0.006,0.021,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,On-grid electricity,2023,0.0,0.021,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Multiple renewables*,Multiple renewables*,Multiple renewables*,All types,2021,0.0,0.0,0.0,0.0,0.0,0.0,111.63,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2001,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2002,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2004,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2006,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2007,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2008,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.057663667
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2009,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.299359132
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2010,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.580991132
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.870990415
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2012,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.449543347
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2013,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.154049202
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2014,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.541780974
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2015,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.088469807
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.91196308
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2017,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.05382266
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2018,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.67202273
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2019,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,46.38275059
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2020,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,56.26182239
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2021,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,81.971904
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2022,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,95.65424171
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2008,0.257,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2009,1.499,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2010,3.34,3.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2011,5.353,4.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2012,8.694,7.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2013,13.705,12.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2014,27.196,25.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2015,50.494,46.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2016,103.0,97.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2017,141.0,116.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2018,188.0,162.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2019,301.0,271.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2020,399.0,332.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2021,557.0,487.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2022,748.0,633.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2023,0.0,901.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2001,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2002,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2003,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2004,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2006,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2007,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2008,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2009,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2010,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2011,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2012,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2013,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2014,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2015,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2017,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.017347597
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2018,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.017198274
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2019,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.017046215
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2020,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.016920849
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2021,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.016832013
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2022,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.016734472
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,On-grid electricity,2017,0.35,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,On-grid electricity,2018,0.35,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,On-grid electricity,2019,0.35,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,On-grid electricity,2020,0.35,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,On-grid electricity,2021,0.35,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,On-grid electricity,2022,0.35,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,On-grid electricity,2023,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Region,Sub-region,Country,ISO3 code,M49 code,RE or Non-RE,Group Technology,Technology,Sub-Technology,Producer Type,Year,Electricity Generation (GWh),Electricity Installed Capacity (MW)
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Coal and peat,Coal and peat,On-grid electricity,2013,313.6,82
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Coal and peat,Coal and peat,On-grid electricity,2014,542.4,143
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Coal and peat,Coal and peat,On-grid electricity,2015,603.3,161
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Coal and peat,Coal and peat,On-grid electricity,2016,619,161
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Coal and peat,Coal and peat,On-grid electricity,2017,678.9,177
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Coal and peat,Coal and peat,On-grid electricity,2018,687.8,176
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Coal and peat,Coal and peat,On-grid electricity,2019,649.7,148
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Coal and peat,Coal and peat,On-grid electricity,2020,530.8,117
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Coal and peat,Coal and peat,On-grid electricity,2021,669.5,141
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Coal and peat,Coal and peat,On-grid electricity,2022,571.1,122
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Coal and peat,Coal and peat,On-grid electricity,2023,0,110
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2000,24162.8,4887.07
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2001,25228.1,5901.57
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2002,26451.8,6895.57
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2003,26922.5,6895.57
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2004,28088.6,7219.5
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2005,28430.2,7219.5
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2006,30715.8,7368.7
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2007,32372.5,7869.2
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2008,33461.3,8069.5
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2009,33691,8077.8
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2010,35022.6,7665.8
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2011,35879.5,7732.8
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2012,39567,9143
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2013,44025.5,11496
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2014,47031.6,12367
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2015,47888.6,12802
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2016,49110.4,12796
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2017,49718.9,12930
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2018,50471.3,12939
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2019,51759.8,11801
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2020,50850.6,11236
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2021,52943.8,11130
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2022,52544,11258
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Natural gas,Natural gas,On-grid electricity,2023,0,11539
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2000,7502.2,1517.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2001,7832.9,1832.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2002,8212.8,2140.9
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2003,8359,2140.9
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2004,8721,2241.5
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2005,8827.1,2241.5
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2006,7817.1,1875.3
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2007,7774.3,1889.8
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2008,7167.3,1728.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2009,7064.2,1693.7
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2010,9164,2005.8
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2011,8923.9,1923.3
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2012,6101.7,1410
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2013,2249.5,587
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2014,345.2,91
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2015,331.8,89
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2016,361.1,94
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2017,365.6,95
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2018,317.4,81
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2019,216.6,49
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2020,212.3,47
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2021,557.9,117
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2022,1484.9,318
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Fossil fuels,Oil,Oil,On-grid electricity,2023,0,37
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2000,477.65,152.9
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2001,477.65,152.9
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2002,477.65,152.9
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2003,477.65,152.9
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2004,477.65,152.9
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2005,477.65,152.9
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2006,473.75,152.9
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2007,493.6,152.9
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2008,520.65,152.9
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2009,521.65,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2010,588.15,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2011,595.25,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2012,629.2,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2013,680.4,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2014,627.45,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2015,628.4,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2016,619.05,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2017,600.6,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2018,555.5,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2019,514.35,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2020,451.2,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2021,418.4,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2022,799.6,196.5
+Asia,South-eastern Asia,Singapore,SGP,702,Total Non-Renewable,Other non-renewable energy,Other non-renewable energy,Other non-renewable energy,On-grid electricity,2023,0,196.5
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2000,477.65,152.9
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2001,477.65,152.9
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2002,477.65,152.9
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2003,477.65,152.9
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2004,477.65,152.9
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2005,477.65,152.9
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2006,473.75,152.9
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2007,493.6,152.9
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2008,520.65,152.9
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2009,521.65,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2010,588.15,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2011,595.25,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2012,629.2,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2013,680.4,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2014,627.45,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2015,628.4,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2016,619.05,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2017,600.6,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2018,555.5,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2019,514.35,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2020,451.2,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2021,418.4,128.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2022,799.6,196.5
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Renewable municipal waste,Renewable municipal waste,On-grid electricity,2023,0,196.5
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2000,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2001,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2002,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2003,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2004,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2005,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2006,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2007,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2008,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2009,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2010,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2011,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2012,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2013,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2014,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2015,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2016,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2017,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2018,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2019,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2020,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2021,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other primary solid biofuels n.e.s.,All types,2022,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other vegetal and agricultural waste,On-grid electricity,2013,0,0.2
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other vegetal and agricultural waste,On-grid electricity,2014,98.6,26
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other vegetal and agricultural waste,On-grid electricity,2015,150.8,40
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other vegetal and agricultural waste,On-grid electricity,2016,154.8,40.6
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other vegetal and agricultural waste,On-grid electricity,2017,156.7,41.1
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other vegetal and agricultural waste,On-grid electricity,2018,158.7,40.2
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other vegetal and agricultural waste,On-grid electricity,2019,162.4,37.3
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other vegetal and agricultural waste,On-grid electricity,2020,159.2,35.3
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other vegetal and agricultural waste,On-grid electricity,2021,223.2,47.3
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other vegetal and agricultural waste,On-grid electricity,2022,171.3,37
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Bioenergy,Solid biofuels,Other vegetal and agricultural waste,On-grid electricity,2023,0,49.01
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2000,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2001,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2002,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2003,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2004,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2005,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2006,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2007,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2008,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2009,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2010,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2011,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2012,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2013,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2014,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2015,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2016,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2017,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2018,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2019,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2020,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2021,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Geothermal energy,Geothermal energy,Geothermal energy,All types,2022,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2000,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2001,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2002,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2003,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2004,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2005,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2006,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2007,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2008,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2009,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2010,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2011,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2012,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2013,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2014,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2015,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2016,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2017,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2018,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2019,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2020,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2021,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Hydropower (excl. Pumped Storage),Renewable hydropower,Renewable hydropower,All types,2022,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2000,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2001,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2002,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2003,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2004,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2005,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2006,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2007,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2008,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2009,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2010,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2011,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2012,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2013,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2014,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2015,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2016,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2017,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2018,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2019,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2020,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2021,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,All types,2022,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,On-grid electricity,2013,0.001,0.001
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,On-grid electricity,2014,0.005,0.016
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,On-grid electricity,2015,0.006,0.021
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,On-grid electricity,2016,0.006,0.021
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,On-grid electricity,2017,0.006,0.021
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,On-grid electricity,2018,0.006,0.021
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,On-grid electricity,2019,0.006,0.021
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,On-grid electricity,2020,0.006,0.021
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,On-grid electricity,2021,0.006,0.021
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,On-grid electricity,2022,0.006,0.021
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Marine energy,Marine energy,Marine energy,On-grid electricity,2023,0,0.021
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Multiple renewables*,Multiple renewables*,Multiple renewables*,All types,2021,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2000,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2001,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2002,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2003,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2004,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2005,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2006,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2007,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2008,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2009,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2010,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2011,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2012,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2013,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2014,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2015,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2016,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2017,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2018,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2019,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2020,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2021,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar energy,Solar energy,All types,2022,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2008,0.257,0.3
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2009,1.499,1.6
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2010,3.34,3.1
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2011,5.353,4.7
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2012,8.694,7.8
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2013,13.705,12.1
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2014,27.196,25.7
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2015,50.494,46.1
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2016,103,97.2
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2017,141,116.4
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2018,188,162
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2019,301,271.6
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2020,399,332
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2021,557,487.2
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2022,748,633.8
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2023,0,901.2
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2000,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2001,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2002,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2003,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2004,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2005,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2006,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2007,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2008,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2009,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2010,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2011,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2012,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2013,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2014,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2015,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2016,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2017,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2018,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2019,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2020,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2021,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,All types,2022,0,0
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,On-grid electricity,2017,0.35,0.1
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,On-grid electricity,2018,0.35,0.1
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,On-grid electricity,2019,0.35,0.1
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,On-grid electricity,2020,0.35,0.1
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,On-grid electricity,2021,0.35,0.1
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,On-grid electricity,2022,0.35,0.1
+Asia,South-eastern Asia,Singapore,SGP,702,Total Renewable,Wind energy,Onshore wind energy,Onshore wind energy,On-grid electricity,2023,0,0.1
