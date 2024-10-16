@@ -109,10 +109,10 @@ app.layout = html.Div([
                 style={'width': '80%', 'height': '600px'},
                 layout={
                     'name': 'cose',
-                    'nodeRepulsion': 10000,
-                    'idealEdgeLength': 100,
-                    'nodeOverlap': 10,
-                    'padding': 50
+                    'nodeRepulsion': 12000,
+                    'idealEdgeLength': 150,
+                    'nodeOverlap': 150,
+                    'padding': 10
                 },
                 stylesheet=[
                     {
@@ -120,7 +120,7 @@ app.layout = html.Div([
                         'style': {
                             'label': 'data(label)',
                             'background-color': 'skyblue',
-                            'font-size': '10px'
+                            'font-size': '12px'
                         }
                     },
                     {
@@ -235,7 +235,7 @@ app.layout = html.Div([
             dcc.Slider(
                 min=1, 
                 max=5, 
-                step=None, 
+                step=2, 
                 marks={
                     1: {'label': 'High(4)', 'style': {'font-size': '12px', 'color': '#888'}},
                     3: {'label': 'Mid(3)', 'style': {'font-size': '12px', 'color': '#888'}},

@@ -5,7 +5,7 @@ export const Main = () =>{
     return(
         <div className="p-3">
 
-            <div className="text-start">Main Dashboard</div>          
+            {/* <div className="text-start">Main Dashboard</div>           */}
 
 
             {/* <div className="row">

@@ -24,6 +24,7 @@ import userIco from '../../assets/user-icon2.png'
 import userIco3 from '../../assets/user-icon3.png'
 import dropdownup from '../../assets/dropdown-up.png'
 import dropdowndown from '../../assets/dropdown-down.png'
+import network from '../../assets/network.jpg'
 
 import property from '../../assets/property-Icon.png'
 import password from '../../assets/password-Icon.png'
@@ -88,6 +89,17 @@ export const LeftMenu = ({type,isOpen}) => {
             <div>
             <span><img className='pe-3' src={path==="/"?homeIco2:homeIco} /></span>
             <span className="link-text">Dashboard</span>
+            </div>
+         
+            <span style={{display:"none"}} className=" notification">3</span>
+            
+          </Link>
+        </li>
+        <li className={`nav-item home p-1 ${path === '/network-diagram' ? 'active' : ''}`}>
+          <Link to="/network-diagram" className="nav-links">
+            <div>
+            <span><img className='pe-3' src={path==="/network-diagram"?network:network} /></span>
+            <span className="link-text">Network Diagram</span>
             </div>
          
             <span style={{display:"none"}} className=" notification">3</span>
