@@ -164,7 +164,7 @@ export const ElectricityUsage = () => {
           chartChild={
             <div>
               <iframe
-                src="consumption/china/china_generation_forecast.html"
+                src="consumption/china/china_capacity_forecast.html"
                 title="Plotly Graph"
                 style={{ width: '100%', height: '500px', border: 'none' }}
               />
