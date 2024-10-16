@@ -21,7 +21,7 @@ export const Reddit = () => {
           />
         }
         filePath={'/reddit/reddit_renewable_energy.csv'}
-        chartDescription="When looking at the following bar graph it shows the engagements made by each country in reddit in the past week. As per the graph most engagements are done in China for renewable energy."
+        chartDescription="The following graph shows the engagements of renewable energy in the past week. ."
         dataSource={
           'Reddit forums,comments and posts'
         }
