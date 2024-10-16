@@ -30,9 +30,9 @@ export const Twitter = () => {
             />
           }
           filePath={'/twitter/twitter_renewable_energy_australia.csv'}
-          chartDescription="When looking at longer historical data it can be difficult to see how the energy mix is changing from year-to-year. Are we adding more renewables than fossil fuels? Are we in fact reducing our consumption of coal or oil?"
+          chartDescription="The below graph shows the engagement of tweets in Australia regarding the sources of renewable energy. This is from the officially government account"
           dataSource={
-            'Energy Institute - Statistical Review of World Energy (2024)'
+            'Tweets from Australia account'
           }
         />
       )}
@@ -55,9 +55,9 @@ export const Twitter = () => {
             />
           }
           filePath={'/twitter/twitter_renewable_energy_singapore.csv'}
-          chartDescription="When looking at longer historical data it can be difficult to see how the energy mix is changing from year-to-year. Are we adding more renewables than fossil fuels? Are we in fact reducing our consumption of coal or oil?"
+          chartDescription="The below graph shows the engagement of tweets in Singapore regarding the sources of renewable energy. This is from the officially government account"
           dataSource={
-            'Energy Institute - Statistical Review of World Energy (2024)'
+            'Tweets from Singapore account'
           }
         />
       )}
@@ -80,9 +80,9 @@ export const Twitter = () => {
             />
           }
           filePath={'/twitter/twitter_renewable_energy_india.csv'}
-          chartDescription="When looking at longer historical data it can be difficult to see how the energy mix is changing from year-to-year. Are we adding more renewables than fossil fuels? Are we in fact reducing our consumption of coal or oil?"
+          chartDescription="The below graph shows the engagement of tweets in India regarding the sources of renewable energy. This is from the officially government account"
           dataSource={
-            'Energy Institute - Statistical Review of World Energy (2024)'
+            'Tweets from india account'
           }
         />
       )}
@@ -105,7 +105,7 @@ export const Twitter = () => {
             />
           }
           filePath={'/twitter/twitter_renewable_energy_india.csv'}
-          chartDescription="When looking at longer historical data it can be difficult to see how the energy mix is changing from year-to-year. Are we adding more renewables than fossil fuels? Are we in fact reducing our consumption of coal or oil?"
+          chartDescription="The below graph shows the engagement of tweets in China regarding the sources of renewable energy. This is from the officially government account"
           dataSource={
             'Energy Institute - Statistical Review of World Energy (2024)'
           }

@@ -266,11 +266,11 @@ export const ElectricityUsage = () => {
           }
           DataChild={
             <CsvTable
-              filePath={'/consumption/AUS Renewable Energy Progress.csv'}
+              filePath={'/consumption/Singapore_generation.csv'}
             />
           }
           filePath={'/consumption/AUS Renewable Energy Progress.csv'}
-          chartDescription="When looking at longer historical data it can be difficult to see how the energy mix is changing from year-to-year. Are we adding more renewables than fossil fuels? Are we in fact reducing our consumption of coal or oil?"
+          chartDescription="As per the analysis there was a sharp rise in the data towards more recent years, showing significant growth in renewables. The forecasted values suggested future growth will continue, though with a steadier increase. So, Singapore is in a positive state regarding their consumption."
           dataSource={
             'Energy Institute - Statistical Review of World Energy (2024)'
           }
