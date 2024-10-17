@@ -53,7 +53,7 @@ export const ElectricityUsage = () => {
             />
           }
           filePath={'/consumption/AUS Renewable Energy Progress.csv'}
-          chartDescription="The graph below shows the renewable energy generated within Australia. Accoriding to the graph there have been a steady increase in the generation of renewable energy between 2026-2026. The future forecaste also reveals that there will be a increase but of a very small amount. As the graph line have been going horizontal in the past years."
+          chartDescription="The graph below shows the renewable energy generated within Australia. Accoriding to the graph there have been a steady increase in the generation of renewable energy between 2016-2026. The future forecaste also reveals that there will be a increase but of a very small amount. As the graph line have been going horizontal in the past years."
           dataSource={
             'Australian Government Clean Energy Regulator - Large-scale renewable energy data (https://cer.gov.au/markets/reports-and-data/large-scale-renewable-energy-data)'
           }
