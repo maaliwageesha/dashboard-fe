@@ -1,73 +1,50 @@
-### After Starting Reat App
-  in path src\python\scripts>  Run command "python SA_Network.py"
-  
-# Getting Started with Create React App
+# Installation and Setup
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To get started, follow the steps below to install and run the application.
+## 1. Clone the Repository
 
-## Available Scripts
+First, clone the repository from GitHub:
 
-In the project directory, you can run:
 
-### `npm start`
+git clone https://github.com/maaliwageesha/dashboard-fe.git
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 2. Checkout to the 'dev' Branch
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Navigate into the cloned repository and checkout the development branch:
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+git checkout dev
 
-### `npm run build`
+## 3. Install Node.js Dependencies
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Inside the project directory, install the necessary Node.js dependencies using npm:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+npm i
 
-### `npm run eject`
+This will install all the required packages listed in the package.json file.
+## 4. Run the Social Network Diagram (Python Script)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+To generate the social network diagram, follow these steps:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    Navigate to the folder containing the Python scripts:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+cd src/python/scripts
 
-## Learn More
+Run the Python file to generate the social network diagram:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+    python SA_Network.py
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Make sure you have the necessary Python libraries installed. You can install them via pip as shown below:
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+pip install dash networkx itertools pandas
 
-### Analyzing the Bundle Size
+## 5. Start the React Application
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Once the dependencies are installed and the Python script is running, start the React application:
 
-### Making a Progressive Web App
+npm start
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This will launch the application locally. You can view it in your browser at http://localhost:3000.
