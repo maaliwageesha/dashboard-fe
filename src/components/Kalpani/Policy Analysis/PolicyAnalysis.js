@@ -31,13 +31,13 @@ export const PolicyAnalysis = () => {
             <div>
               <div style={titleStyle}>Topic Modeling of Policy Documents - Australia</div>
               <iframe
-                src="/policy/Aus_lda.html"
+                src="/Policy/Aus_lda.html"
                 title="LDA Visualization - Australia"
                 style={iframeStyle}
               />
               <div style={titleStyle}>Word Frequency Analysis of Policy Documents - Australia</div>
               <iframe
-                src="/policy/Aus_wordcloud.html"
+                src="/Policy/Aus_wordcloud.html"
                 title="Wordcloud Visualization - Australia"
                 style={iframeStyle}
               />
@@ -59,13 +59,13 @@ export const PolicyAnalysis = () => {
             <div>
               <div style={titleStyle}>Topic Modeling of Policy Documents - India</div>
               <iframe
-                src="/policy/India_lda_visualization.html"
+                src="/Policy/India_lda_visualization.html"
                 title="LDA Visualization - India"
                 style={iframeStyle}
               />
               <div style={titleStyle}>Word Frequency Analysis of Policy Documents - India</div>
               <iframe
-                src="/policy/India_wordcloud.html"
+                src="/Policy/India_wordcloud.html"
                 title="Wordcloud Visualization - India"
                 style={iframeStyle}
               />
@@ -87,13 +87,13 @@ export const PolicyAnalysis = () => {
             <div>
               <div style={titleStyle}>Topic Modeling of Policy Documents - China</div>
               <iframe
-                src="/policy/China_lda.html"
+                src="/Policy/China_lda.html"
                 title="LDA Visualization - China"
                 style={iframeStyle}
               />
               <div style={titleStyle}>Word Frequency Analysis of Policy Documents - China</div>
               <iframe
-                src="/policy/China_wordcloud.html"
+                src="/Policy/China_wordcloud.html"
                 title="Wordcloud Visualization - China"
                 style={iframeStyle}
               />
@@ -115,13 +115,13 @@ export const PolicyAnalysis = () => {
             <div>
               <div style={titleStyle}>Topic Modeling of Policy Documents - Singapore</div>
               <iframe
-                src="/policy/Singapre_lda_visualization.html"
+                src="/Policy/Singapre_lda_visualization.html"
                 title="LDA Visualization - Singapore"
                 style={iframeStyle}
               />
               <div style={titleStyle}>Word Frequency Analysis of Policy Documents - Singapore</div>
               <iframe
-                src="/policy/Singapore_wordcloud.html"
+                src="/Policy/Singapore_wordcloud.html"
                 title="Wordcloud Visualization - Singapore"
                 style={iframeStyle}
               />
@@ -143,13 +143,13 @@ export const PolicyAnalysis = () => {
             <div>
               <div style={titleStyle}>Topic Modeling of Policy Documents - Combined Countries</div>
               <iframe
-                src="/policy/combined_lda.html"
+                src="/Policy/combined_lda.html"
                 title="LDA Visualization - Combined"
                 style={iframeStyle}
               />
               <div style={titleStyle}>Word Frequency Analysis of Policy Documents - Combined Countries</div>
               <iframe
-                src="/policy/combined_wordcloud.html"
+                src="/Policy/combined_wordcloud.html"
                 title="Wordcloud Visualization - Combined"
                 style={iframeStyle}
               />
