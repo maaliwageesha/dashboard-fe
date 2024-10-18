@@ -47,7 +47,7 @@ export const PolicyAnalysis = () => {
             <CsvTable filePath={'/Policy/PolicyData/cleaned_policy_docs-Aus.csv'} />
           }
           filePath={'/Policy/PolicyData/cleaned_policy_docs-Aus.csv'}
-          chartDescription="These graphs provide insights on the current policy landscape in Australia, focusing on key topics and trends in renewable energy policies."
+          chartDescription="These graphs provide insights on the current policy landscape in Australia, focusing on key topics and trends in renewable energy policies. Each circle indicate a topic identified through the topic modelling.Size of the circle indicate the significance of the topic in the analysed policy documents.Distance between circle shows the relationship between topics. When relevance matrix is 1, the key words are the most frequently used words in the topic and When the relevance matrix is 0, the key shown key words are unique to the topic. In the Word Cloud, size of the key word indicate the frequency of the key word"
           dataSource={'Australian Government Policy Documents'}
         />
       )}

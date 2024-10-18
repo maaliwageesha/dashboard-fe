@@ -273,26 +273,24 @@ export const LeftMenu = ({type,isOpen}) => {
 
 
 
-<div className="nav-links" onClick={toggleStakeholderDropdown}>
-          <div>
-          <span><BsPeople className='me-3' /></span>
-            <span className="link-text">Stakeholder </span>
-            </div>
-            <div className='d-flex'>
-            <span  style={{display:"none"}}  className=" notification">1</span>
-            <span className="dropdown-arrow">{isSettingsDropdownVisible ? <img className='ps-2' src={dropdownup} /> : <img className='ps-2' src={dropdowndown} />}</span>
-            </div>
-          </div>
-          {isStakeholderDropdownVisible && (
-            <ul className="dropdown ps-2">
-     <li className={`dropdown-item ${path === '/stakeholder-analysis' ? 'active' : ''}`}>
-                <span><img className='pe-3' src={property} /></span>
-                <Link to="/stakeholder-analysis" className="dropdown-nav-links">Stakeholder Analysis</Link>
-              </li>
-
-             
-            </ul>
-          )}
+    <div className="nav-links" onClick={toggleStakeholderDropdown}>
+      <div>
+        <span><BsPeople className='me-3' /></span>
+        <span className="link-text">Stakeholder </span>
+      </div>
+        <div className='d-flex'>
+          <span  style={{display:"none"}}  className=" notification">1</span>
+          <span className="dropdown-arrow">{isSettingsDropdownVisible ? <img className='ps-2' src={dropdownup} /> : <img className='ps-2' src={dropdowndown} />}</span>
+        </div>
+    </div>
+    {isStakeholderDropdownVisible && (
+      <ul className="dropdown ps-2">
+        <li className={`dropdown-item ${path === '/stakeholder-analysis' ? 'active' : ''}`}>
+          <span><img className='pe-3' src={property} /></span>
+          <Link to="/stakeholder-analysis" className="dropdown-nav-links">Stakeholder Analysis</Link>
+        </li>
+      </ul>
+    )}
 
           
         </li>
