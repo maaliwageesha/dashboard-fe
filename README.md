@@ -6,21 +6,21 @@ To get started, follow the steps below to install and run the application.
 First, clone the repository from GitHub:
 
 
-git clone https://github.com/maaliwageesha/dashboard-fe.git
+    git clone https://github.com/maaliwageesha/dashboard-fe.git
 
 ## 2. Checkout to the 'dev' Branch
 
 Navigate into the cloned repository and checkout the development branch:
 
 
-git checkout dev
+    git checkout dev
 
 ## 3. Install Node.js Dependencies
 
 Inside the project directory, install the necessary Node.js dependencies using npm:
 
 
-npm i
+    npm i
 
 This will install all the required packages listed in the package.json file.
 ## 4. Run the Social Network Diagram (Python Script)
