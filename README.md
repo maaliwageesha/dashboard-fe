@@ -27,10 +27,9 @@ This will install all the required packages listed in the package.json file.
 
 To generate the social network diagram, follow these steps:
 
-    Navigate to the folder containing the Python scripts:
+Navigate to the folder containing the Python scripts:
 
-
-cd src/python/scripts
+    cd src/python/scripts
 
 Run the Python file to generate the social network diagram:
 
@@ -39,12 +38,12 @@ Run the Python file to generate the social network diagram:
 Make sure you have the necessary Python libraries installed. You can install them via pip as shown below:
 
 
-pip install dash networkx itertools pandas
+    pip install dash networkx itertools pandas
 
 ## 5. Start the React Application
 
 Once the dependencies are installed and the Python script is running, start the React application:
 
-npm start
+    npm start
 
 This will launch the application locally. You can view it in your browser at http://localhost:3000.
